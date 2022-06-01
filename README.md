@@ -3,7 +3,7 @@ A twist on a coin flip game. User will gamble between death or cake.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://cdn.glitch.global/6103ec87-7cd1-4e3e-92fd-0e50a3625728/Logo.png?v=1653974548774)
 
 ## How It's Made:
 
